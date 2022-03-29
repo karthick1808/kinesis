@@ -1,0 +1,8 @@
+# Set AWS credentials for accessing Amazon Kinesis Stream and Amazon Kinesis Firehose
+#
+AWS_ACCESS_KEY_ID="AKIAX6OEWJTXKXJUAGNA"
+AWS_SECRET_ACCESS_KEY="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"
+AWS_DEFAULT_REGION="ap-south-1"
+#
+# AGENT_ARGS=""
+# AGENT_LOG_LEVEL="INFO"
